@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amitjha1537
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning blockchain by metacrafters
-- 💞️ I’m looking to collaborate on Digitl currencies
+- 💞️ I’m looking to collaborate on Digital currencies
 - 📫 How to reach me: mail me at amitjhaaj214@gmail.com
 - 😄 Pronouns: HE
 - ⚡ Fun fact: Make a good jokes, so be ready to take some.
