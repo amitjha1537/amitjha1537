@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Digital currencies
 - 📫 How to reach me: mail me at amitjhaaj214@gmail.com
 - 😄 Pronouns: HE
-- ⚡ Fun fact: Make a good jokes, so be ready to take some.
+- ⚡ Fun fact: Make good jokes, so be ready to take some.
 
 <!---
 amitjha1537/amitjha1537 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
