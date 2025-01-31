@@ -6,9 +6,7 @@
 🚀 Open-Source Contributor | Love collaborating on DSA challenges and database optimization
 🌱 Learning Solidity | Hyperledger | Cryptographic Algorithms
 ✨ "Code is the closest thing we have to magic."
-
 Tech Stack: Java | SQL | Python | Solidity | Git | Ethereum | MySQL/PostgreSQL | Spring Boot
-
 📫 Let’s connect and build something secure, efficient, and revolutionary!
 - 📫 How to reach me: mail me at amitjhaaj214@gmail.com
 - 😄 Pronouns: HE
