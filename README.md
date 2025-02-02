@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amitjha1537
 - 👨💻 BE CSE Student | Problem Solver | Tech Enthusiast
 💡 Passionate about Data Structures & Algorithms | SQL | Java
-🔗 Exploring Blockchain & Cryptography (Ethereum, Smart Contracts, Zero-Knowledge Proofs)
+🔗 Exploring Blockchain & Cryptography (Ethereum, Smart Contracts)
 📊 Building scalable solutions with a focus on decentralized systems and secure protocols
 🚀 Open-Source Contributor | Love collaborating on DSA challenges and database optimization
 🌱 Learning Solidity | Hyperledger | Cryptographic Algorithms
