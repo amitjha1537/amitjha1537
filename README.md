@@ -9,7 +9,6 @@
 Tech Stack: Java | SQL | Python | Solidity | Git | Ethereum | MySQL/PostgreSQL | Spring Boot
 📫 Let’s connect and build something secure, efficient, and revolutionary!
 - 📫 How to reach me: mail me at amitjhaaj214@gmail.com
-- 😄 Pronouns: HE
 - ⚡ Fun fact: Make good jokes, so be ready to take some.
 
 <!---
